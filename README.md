@@ -1,5 +1,5 @@
 | Item | Quantidade |
 | ------- | ------- |
 | Arroz | 3 |
-| Feijão | 6 |
+| Feijão | 60 |
 | Batata | 7 |
